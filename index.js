@@ -6,3 +6,9 @@ function getFirstSelector(selector) {
 function nestedTarget() {
   return
 }
+
+function deepestChild() {
+  return
+}
+
+function increaseRankBy()
