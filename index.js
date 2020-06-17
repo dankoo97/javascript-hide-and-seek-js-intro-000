@@ -11,4 +11,6 @@ function deepestChild() {
   return
 }
 
-function increaseRankBy()
+function increaseRankBy(n) {
+  return
+}
